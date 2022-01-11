@@ -9,9 +9,9 @@ Buz Galbraith, Siddhant Kumar
     - Pattern- A subfolder with CSVs that were used for scraping purposes
     - Twitter- A subfolder with data collected from Twitter users
      - Saved Responses subfolder has raw json data for all Twitter users.
-  - Graphs- a subfolder containing graphs made for this paper. 
-    -   Events a subfolder containing graphs related to events
-    - Months a subfolder containing graphs related to analysis for each month 
-    - Overall a subfolder containing graphs related to the whole period of analysis
+ - Graphs- a subfolder containing graphs made for this paper. 
+   -   Events a subfolder containing graphs related to events
+   - Months a subfolder containing graphs related to analysis for each month 
+   - Overall a subfolder containing graphs related to the whole period of analysis
 - Paper- The current draft of the full paper. 
 
