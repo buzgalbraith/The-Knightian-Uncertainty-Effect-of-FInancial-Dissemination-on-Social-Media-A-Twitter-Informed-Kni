@@ -1,4 +1,4 @@
-# The-Knightian-Uncertainty-Effect-of-FInancial-Dissemination-on-Social-Media-A-Twitter-Informed-Kni
+# The-Knightian-Uncertainty-Effect-of-Financial-Dissemination-on-Social-Media-A-Twitter-Informed-Kni
 Buz Galbraith, Siddhant Kumar
 - Twitter Paper Code.ipynb - A Jupyter Notebook containing the code used for data processing and analysis in the paper. 
 - Data- Zip folder containing all data and charts referenced in the paper. 
