@@ -1,9 +1,9 @@
 # The-Knightian-Uncertainty-Effect-of-FInancial-Dissemination-on-Social-Media-A-Twitter-Informed-Kni
 Buz Galbraith, Siddhant Kumar
-- Twitter Paper Code.ipynb-  A Jupyter Notebook containing the code used for data processing and analysis in the paper. 
-Data- Zip folder containing all data and charts referenced in the paper. 
-CSV- a subfolder with our data in CSV format. 
-Bloomberg-  a subfolder containing data collected from Bloomberg Market Wraps
+- Twitter Paper Code.ipynb - A Jupyter Notebook containing the code used for data processing and analysis in the paper. 
+- Data- Zip folder containing all data and charts referenced in the paper. 
+  -CSV - a subfolder with our data in CSV format. 
+  - Bloomberg-  a subfolder containing data collected from Bloomberg Market Wraps
 Fundamentals data- A subfolder with data relating to our macroeconomic indicator variables
 Overall- A subfolder containing that is an aggregate all data used for analysis
 Pattern- A subfolder with CSVs that were used for scraping purposes
